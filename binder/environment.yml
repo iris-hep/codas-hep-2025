@@ -47,6 +47,7 @@ dependencies:
       - aiohttp
       - servicex
       - bash_kernel
+      - jax
      
 variables:
   LD_LIBRARY_PATH: "'$LD_LIBRARY_PATH:$CONDA_PREFIX/lib/'"
