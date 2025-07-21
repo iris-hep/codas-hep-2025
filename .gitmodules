@@ -1,0 +1,3 @@
+[submodule "codas-hep-2025-jit-compilation"]
+	path = codas-hep-2025-jit-compilation
+	url = https://github.com/codas-hep-2025/codas-hep-2025-jit-compilation.git
