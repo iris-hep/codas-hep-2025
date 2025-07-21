@@ -7,3 +7,6 @@
 [submodule "scientific-python-intro"]
 	path = scientific-python-intro
 	url = https://github.com/codas-hep-2025/scientific-python-intro.git
+[submodule "2025-07-23-CoDaS-HEP-Columnar-Analysis"]
+	path = 2025-07-23-CoDaS-HEP-Columnar-Analysis
+	url = https://github.com/codas-hep-2025/2025-07-23-CoDaS-HEP-Columnar-Analysis.git
