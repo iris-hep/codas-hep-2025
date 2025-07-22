@@ -13,3 +13,6 @@
 [submodule "machine-learning"]
 	path = machine-learning
 	url = https://github.com/codas-hep-2025/2025-CoDaS-HEP-ML.git
+[submodule "2025-07-23-CoDaS-HEP-Columnar-Analysis"]
+	path = 2025-07-23-CoDaS-HEP-Columnar-Analysis
+	url = https://github.com/codas-hep-2025/2025-07-23-CoDaS-HEP-Columnar-Analysis.git  
