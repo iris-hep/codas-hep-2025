@@ -1,11 +1,11 @@
 [submodule "2025-07-21-scikit-hep-tutorial"]
-	path = 2025-07-21-scikit-hep-tutorial
+	path = scikit-hep-tutorial
 	url = https://github.com/codas-hep-2025/2025-07-21-scikit-hep-tutorial.git
 [submodule "codas-hep-2025-jit-compilation"]
-	path = codas-hep-2025-jit-compilation
+	path = jit-compilation
 	url = https://github.com/codas-hep-2025/codas-hep-2025-jit-compilation.git
 [submodule "scientific-python-intro"]
-	path = scientific-python-intro
+	path = scientific-python
 	url = https://github.com/codas-hep-2025/scientific-python-intro.git
 [submodule "ParProg"]
 	path = ParProg
@@ -14,5 +14,5 @@
 	path = machine-learning
 	url = https://github.com/codas-hep-2025/2025-CoDaS-HEP-ML.git
 [submodule "2025-07-23-CoDaS-HEP-Columnar-Analysis"]
-	path = 2025-07-23-CoDaS-HEP-Columnar-Analysis
+	path = Columnar-Analysis
 	url = https://github.com/codas-hep-2025/2025-07-23-CoDaS-HEP-Columnar-Analysis.git  
