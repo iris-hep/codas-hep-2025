@@ -1,5 +1,8 @@
 FROM nvcr.io/nvidia/nvhpc:25.5-devel-cuda12.9-ubuntu22.04
 
+RUN apt-get update -y
+RUN apt-get install -y git pip
+
 # install the notebook package
 RUN pip install --no-cache --upgrade pip && \
     pip install --no-cache notebook jupyterlab
