@@ -10,9 +10,9 @@
 [submodule "ParProg"]
 	path = ParProg
 	url = https://github.com/tgmattso/CoDaS_HEP.git
-[submodule "machine-learning"]
-	path = machine-learning
-	url = https://github.com/codas-hep-2025/2025-CoDaS-HEP-ML.git
 [submodule "2025-07-23-CoDaS-HEP-Columnar-Analysis"]
 	path = Columnar-Analysis
 	url = https://github.com/codas-hep-2025/2025-07-23-CoDaS-HEP-Columnar-Analysis.git  
+[submodule "machine-learning"]
+	path = machine-learning
+	url = https://github.com/codas-hep-2025/2025-CoDaS-HEP-ML.git
