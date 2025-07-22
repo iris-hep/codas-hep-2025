@@ -12,10 +12,13 @@ ARG NB_USER
 ARG NB_UID
 ENV USER ${NB_USER}
 ENV HOME /home/${NB_USER}
-
+ENV SHELL /bin/bash
 RUN adduser --disabled-password \
     --gecos "Default user" \
     --uid ${NB_UID} \
     ${NB_USER}
+
+RUN git clone --recurse-submodules https://github.com/iris-hep/codas-hep-2025
+RUN rm -rf codas-hep-2025/binder    
 WORKDIR ${HOME}
 USER ${USER}
