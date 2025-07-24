@@ -16,3 +16,6 @@
 [submodule "machine-learning"]
 	path = machine-learning
 	url = https://github.com/codas-hep-2025/2025-CoDaS-HEP-ML.git
+[submodule "gpu-sessions"]
+	path = gpu-sessions
+	url = https://github.com/brij01/GPU-CoDaSHEP-Princeton.git
