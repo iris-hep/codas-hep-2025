@@ -22,13 +22,11 @@ dependencies:
       - mplhep
       - networkx
       - numpy<2
-      - nvidia-cudnn-cu12
       - scipy
       - scikit-learn
       - seaborn
       - tensorboard
-      - tensorflow[and-cuda] 
-      - tensorrt
+      - tensorflow
       - torch
       - torch-geometric
       - torchvision
